@@ -33,7 +33,7 @@ class MainApp {
         System.out.println("orangeBox :" + orangeBox.getMass());// масса коробки с апельсинами
         System.out.println(appleBox.compare(orangeBox));
 
-        
+
 
     }
 
